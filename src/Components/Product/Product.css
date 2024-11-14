@@ -1,0 +1,18 @@
+.card{
+    width: 300px;
+    border: 1px solid greenyellow;
+    margin: 4px; 
+    
+    
+}
+.szie{
+    height:100%;
+    width: 100%;
+   object-fit: cover;
+   overflow: hidden;
+
+}
+.img-container{
+    width: auto;
+    height:400px;
+}

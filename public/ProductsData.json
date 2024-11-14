@@ -1,0 +1,275 @@
+[
+    {
+      "product_id": 1001,
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/zrG6KJW/Samsung-Galaxy-S23-Ultra.jpg",
+      "category": "Phones",
+      "price": 1199.99,
+      "description": "The Samsung Galaxy S23 Ultra features a 6.8-inch AMOLED display, Snapdragon 8 Gen 2 processor, and a 200MP rear camera.",
+      "specification": [
+        {"key": "Display", "value": "6.8-inch AMOLED"},
+        {"key": "Camera", "value": "200 MP"},
+        {"key": "Processor", "value": "Snapdragon 8 Gen 2"},
+        {"key": "Storage", "value": "256 GB"}
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "other_field": "Available in Phantom Black, Cream, and Green"
+    },
+    {
+      "product_id": 1002,
+      "product_title": "iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/RDKLK4p/i-Phone-15-Pro-Max.jpg",
+      "category": "Phones",
+      "price": 1399.99,
+      "description": "iPhone 15 Pro Max with a stunning 6.7-inch OLED display, Apple A17 Pro chip, and advanced 48MP camera system.",
+      "specification": [
+        {"key": "Display", "value": "6.7-inch OLED"},
+        {"key": "Camera", "value": "48 MP"},
+        {"key": "Processor", "value": "Apple A17 Pro"},
+        {"key": "Storage", "value": "512 GB"}
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "other_field": "Available in Space Black, Silver, and Blue"
+    },
+    {
+      "product_id": 1003,
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co.com/h7rJHQ0/pixel-phone.jpg",
+      "category": "Phones",
+      "price": 999.99,
+      "description": "Google Pixel 8 Pro with a 6.7-inch OLED display, Tensor G3 chip, and 50MP main camera for high-quality photos.",
+      "specification": [
+        {"key": "Display", "value": "6.7-inch OLED"},
+        {"key": "Camera", "value": "50 MP"},
+        {"key": "Processor", "value": "Tensor G3"},
+        {"key": "Storage", "value": "256 GB"}
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "other_field": "Available in Obsidian, Porcelain, and Blue"
+    },
+    {
+      "product_id": 1004,
+      "product_title": "OnePlus 11 5G",
+      "product_image": "https://i.ibb.co.com/kcqkpP2/oneplus.jpg",
+      "category": "Phones",
+      "price": 899.99,
+      "description": "OnePlus 11 5G features a 6.7-inch Fluid AMOLED display, Snapdragon 8 Gen 2, and a 50MP primary camera.",
+      "specification": [
+        {"key": "Display", "value": "6.7-inch Fluid AMOLED"},
+        {"key": "Camera", "value": "50 MP"},
+        {"key": "Processor", "value": "Snapdragon 8 Gen 2"},
+        {"key": "Storage", "value": "128 GB"}
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "other_field": "Available in Titan Black and Eternal Green"
+    },
+    {
+      "product_id": 1005,
+      "product_title": "Samsung Galaxy Z Flip 5",
+      "product_image": "https://i.ibb.co.com/S6cQDWh/Samsung-Galaxy-Z-Flip-5.jpg",
+      "category": "Phones",
+      "price": 999.99,
+      "description": "Samsung Galaxy Z Flip 5, a foldable phone with a 6.7-inch Dynamic AMOLED display, Snapdragon 8 Gen 2 processor, and 12MP camera.",
+      "specification": [
+        {"key": "Display", "value": "6.7-inch Dynamic AMOLED"},
+        {"key": "Camera", "value": "12 MP"},
+        {"key": "Processor", "value": "Snapdragon 8 Gen 2"},
+        {"key": "Storage", "value": "256 GB"}
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "other_field": "Available in Graphite, Cream, and Lavender"
+    },
+    {
+      "product_id": 1006,
+      "product_title": "Xiaomi 13 Pro",
+      "product_image": "https://i.ibb.co.com/dMdhYNW/Xiaomi-13-Pro.jpg",
+      "category": "Phones",
+      "price": 1099.99,
+      "description": "Xiaomi 13 Pro offers a 6.73-inch AMOLED display, Snapdragon 8 Gen 2, and a 50MP camera co-engineered with Leica.",
+      "specification": [
+        {"key": "Display", "value": "6.73-inch AMOLED"},
+        {"key": "Camera", "value": "50 MP"},
+        {"key": "Processor", "value": "Snapdragon 8 Gen 2"},
+        {"key": "Storage", "value": "256 GB"}
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "other_field": "Available in Black and White"
+    },
+    
+    {
+      "product_id": 2001,
+      "product_title": "Lenovo ThinkPad X1 Carbon Gen 10",
+      "product_image": "https://i.ibb.co.com/qF8rPRz/Lenovo.jpg",
+      "category": "Laptops",
+      "price": 1799.99,
+      "description": "A premium business laptop with Intel Core i7 processor, 16GB RAM, and 1TB SSD. Ideal for productivity and performance.",
+      "specification": [
+        {"key": "Processor", "value": "Intel Core i7"},
+        {"key": "RAM", "value": "16 GB"},
+        {"key": "Storage", "value": "1 TB SSD"},
+        {"key": "Display", "value": "14-inch 4K"}
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "other_field": "Lightweight and durable"
+    },
+    {
+      "product_id": 2002,
+      "product_title": "Apple MacBook Pro 16-inch (2023)",
+      "product_image": "https://i.ibb.co.com/M7FMTCN/Apple-Mac-Book-Pro-16-inch-2023.jpg",
+      "category": "Laptops",
+      "price": 2499.99,
+      "description": "Apple MacBook Pro with Apple M2 Pro chip, 16-inch Retina display, 32GB RAM, and 1TB SSD.",
+      "specification": [
+        {"key": "Processor", "value": "Apple M2 Pro"},
+        {"key": "RAM", "value": "32 GB"},
+        {"key": "Storage", "value": "1 TB SSD"},
+        {"key": "Display", "value": "16-inch Retina"}
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "other_field": "Available in Space Gray"
+    },
+    {
+      "product_id": 2003,
+      "product_title": "Dell XPS 13 Plus",
+      "product_image": "https://i.ibb.co.com/4fFh6v8/Dell-XPS-13-Plus.webp",
+      "category": "Laptops",
+      "price": 1399.99,
+      "description": "The Dell XPS 13 Plus features an Intel Core i7, 16GB RAM, and 512GB SSD, in a sleek and portable design.",
+      "specification": [
+        {"key": "Processor", "value": "Intel Core i7"},
+        {"key": "RAM", "value": "16 GB"},
+        {"key": "Storage", "value": "512 GB SSD"},
+        {"key": "Display", "value": "13.4-inch Full HD+"}
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "other_field": "Available in Platinum Silver and Frost"
+    },
+    {
+      "product_id": 2004,
+      "product_title": "HP Spectre x360 14",
+      "product_image": "https://i.ibb.co.com/xg5SVkf/HP-Spectre-x360-14.jpg",
+      "category": "Laptops",
+      "price": 1599.99,
+      "description": "The HP Spectre x360 is a 2-in-1 laptop with Intel Core i7, 16GB RAM, and 512GB SSD, featuring a 13.5-inch OLED display.",
+      "specification": [
+        {"key": "Processor", "value": "Intel Core i7"},
+        {"key": "RAM", "value": "16 GB"},
+        {"key": "Storage", "value": "512 GB SSD"},
+        {"key": "Display", "value": "13.5-inch OLED"}
+      ],
+      "availability": true,
+      "rating": 4.1
+    },
+    {
+        "product_id": 3001,
+        "product_title": "Apple AirPods Pro (2nd Gen)",
+        "product_image": "https://i.ibb.co.com/gMVj0yW/Apple-Air-Pods-Pro-2nd-Gen.jpg",
+        "category": "AirPods",
+        "price": 249.99,
+        "description": "Apple AirPods Pro (2nd Gen) with Active Noise Cancellation, Adaptive Transparency, and improved sound quality.",
+        "specification": [
+          {"key": "Noise Cancellation", "value": "Active Noise Cancellation"},
+          {"key": "Battery Life", "value": "Up to 6 hours"},
+          {"key": "Chip", "value": "Apple H2 Chip"},
+          {"key": "Connectivity", "value": "Bluetooth 5.0"}
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "other_field": "Includes various ear tips for a secure fit"
+      },
+      {
+        "product_id": 3002,
+        "product_title": "Apple AirPods 3rd Gen",
+        "product_image": "https://i.ibb.co.com/zZhQZ2z/Apple-Air-Pods-3rd-Gen.jpg",
+        "category": "AirPods",
+        "price": 179.99,
+        "description": "Apple AirPods 3rd Gen with spatial audio, adaptive EQ, and longer battery life compared to the previous model.",
+        "specification": [
+          {"key": "Battery Life", "value": "Up to 6 hours"},
+          {"key": "Chip", "value": "Apple H1 Chip"},
+          {"key": "Connectivity", "value": "Bluetooth 5.0"},
+          {"key": "Water Resistance", "value": "IPX4"}
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "other_field": "Available in White"
+      },
+      {
+        "product_id": 3003,
+        "product_title": "Apple AirPods Max",
+        "product_image": "https://i.ibb.co.com/cgsG6vW/Apple-Air-Pods-Max.jpg",
+        "category": "AirPods",
+        "price": 549.99,
+        "description": "Apple AirPods Max features Active Noise Cancellation, spatial audio, and exceptional sound quality with high-fidelity audio.",
+        "specification": [
+          {"key": "Noise Cancellation", "value": "Active Noise Cancellation"},
+          {"key": "Battery Life", "value": "Up to 20 hours"},
+          {"key": "Chip", "value": "Apple H1 Chip"},
+          {"key": "Connectivity", "value": "Bluetooth 5.0"}
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "other_field": "Available in Space Gray, Silver, Sky Blue, and Pink"
+      },
+      {
+        "product_id": 4001,
+        "product_title": "Sony WH-1000XM5 Wireless Headphones",
+        "product_image": "https://i.ibb.co.com/5hhZ629/Sony-WH-1000-XM5-Wireless-Headphones.jpg",
+        "category": "Headphones",
+        "price": 349.99,
+        "description": "Sony WH-1000XM5 features industry-leading noise cancellation, high-resolution audio, and 30 hours of battery life.",
+        "specification": [
+          {"key": "Noise Cancellation", "value": "Industry-leading"},
+          {"key": "Battery Life", "value": "Up to 30 hours"},
+          {"key": "Connectivity", "value": "Bluetooth 5.2"},
+          {"key": "Audio Quality", "value": "Hi-Res Audio"}
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "other_field": "Available in Black and Silver"
+      },
+      {
+        "product_id": 4002,
+        "product_title": "Bose QuietComfort 45 Wireless Headphones",
+        "product_image": "https://i.ibb.co.com/0ZkRrQG/Bose-Quiet-Comfort-45-Wireless-Headphones.jpg",
+        "category": "Headphones",
+        "price": 329.99,
+        "description": "Bose QuietComfort 45 headphones offer exceptional noise cancellation, 24-hour battery life, and crystal-clear sound.",
+        "specification": [
+          {"key": "Noise Cancellation", "value": "QuietComfort Technology"},
+          {"key": "Battery Life", "value": "Up to 24 hours"},
+          {"key": "Connectivity", "value": "Bluetooth 5.1"},
+          {"key": "Audio Quality", "value": "Active EQ"}
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "other_field": "Available in Black and White"
+      },
+      {
+        "product_id": 4003,
+        "product_title": "Sennheiser Momentum 4 Wireless Headphones",
+        "product_image": "https://i.ibb.co.com/RpJM0g7/Sennheiser-Momentum-4-Wireless-Headphones.jpg",
+        "category": "Headphones",
+        "price": 379.99,
+        "description": "Sennheiser Momentum 4 headphones provide superb sound quality with active noise cancellation and a 60-hour battery life.",
+        "specification": [
+          {"key": "Noise Cancellation", "value": "Adaptive Noise Cancellation"},
+          {"key": "Battery Life", "value": "Up to 60 hours"},
+          {"key": "Connectivity", "value": "Bluetooth 5.0"},
+          {"key": "Audio Quality", "value": "High-Fidelity Sound"}
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "other_field": "Available in Black"
+      }
+
+]
